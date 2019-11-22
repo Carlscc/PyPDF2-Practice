@@ -1,2 +1,5 @@
-# PyPDF2-Practice
-Merge and Watermark PDFs with PyPDF2 - ZTM Practice Project
+# PyPDF2
+
+### Exercises to practice using the PyPDF2 library
+
+PDF Merging and adding a watermark to the output. 
